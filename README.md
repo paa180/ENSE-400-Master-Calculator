@@ -1,5 +1,5 @@
 ﻿# ENSE-400-Master-Calculator
 
-.# Table of Contents
+# Table of Contents
 # Introduction
-#Project Idea
+# Project Idea
