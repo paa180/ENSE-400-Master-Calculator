@@ -1,21 +1,21 @@
 ﻿# ENSE-400-Master-Calculator
 
 # Documents
-# 1. Introduction
+# Introduction
 My name is Philip Anyuon, a fourth year Software System Engineering Student at University of Regina. This is a solo project, and I hope everything will be done according to the plan.
-# 2. Project Idea
+# Project Idea
 A master calculator should be a greater benefit to engineers and scientists who don’t want the burden of tedious calculation to their thoughts.
-# 3. Project background
+# Project background
 The history of the Calculator is the longer one that evolved from century to century through many civilizations. Today the survivor began is the 2500 BC when the abacus was invented in Samaria. The abacus was nothing but a table of beads or stone representing a single unit. It was used to add and to subtract two numbers. Many centuries later every culture developed its own way of calculation. The story of the calculator continues to Blaise Pascal in 1642 AD, and many other individuals after him who developed a tool intent to calculate the numbers. In current time, we have many different types of calculators which not only calculate the four operation functions (Addition, Multiplication, Division and Subtraction), but also the calculation of the most sophisticated problem, for example, trigonometric, Statistic, Algebra, etc. however, there are two problems associated with calculator that need to be addressed. One is the limitation of the functions on the calculator, and the other one is whether the user should learn from the calculator while using it. Calculators have limited functions which lead engineers and scientists to use a paper calculation that results in the waste of time if the problem is big. For example, if an engineer wants to calculate a sophisticated problem like kinematic viscosity, he or she would not be able to use a calculator directly. Instead, he or she could use a paper calculation which results in a longer time. Many engineering calculations are not covered by the calculators we have today and that is a challenge. The problem of combination of abbreviation or shortened name and function to get the result frustrated many students when using calculators. That brought the question whether the focus should be on the problem we are dealing with or a calculator’s abbreviations and functions. Calculator should be simple so that any person with a formula in mind and knowledge of the variables should use it without problem. But in the current situation, if you give a graduate statistic student from a third world country, where the use of calculators is scarce, a problem and tell him or her to find the standard deviation on the electronic calculator, he or she would admit that it is impossible. However, if you tell him or her to calculate the standard deviation on the paper, it will take him or her a few seconds to get it. Calculator’s abbreviations and functions teach us nothing related to the problem we are calculating, rather than just a calculator’s shortened names and functions which may not benefit anyone.
 
-# 4. Business need/Opportunity
+# Business need/Opportunity
 The Master Calculator I am going to build is the one that includes most of the engineering calculations and eliminates most of the abbreviations. For example, if you pick a force to calculate, it will request mass and acceleration on a clear box labelled with mass and acceleration. The unit of each component must be clear. If a user is calculating a standard deviation, he or she would be able to provide the values of x, x bar and the number of data points (n). The master calculator will do most of the calculations as it was programming for it. The Master Calculator will include the standard calculator, scientific calculator, engineering calculator and unit conversion. It will have a navigation menu to reduce a crowd on the screen. Each topic may have sub-topic, for example, under geometric you may find area, volume, perimeter, surface area, etc. Each subtopic may have many other smaller topics, for example, area may have area of circle, area of triangle and so forth.
 Calculator is a greater tool that could benefit engineers and scientists by handling a problem of time consumption. Calculator was discovered before cell phones, but cellphones jumped out of the same situation a few years ago after the sluggish screen evolved into a multi-features touch screen. But today it is time to investigate the calculator’s problem.
 
-# 5. Reason
+# Reason
 There are many problems associated with calculation in the world. Most of those problems have formulas to be used to calculate them. Some problems are calculated directly while others are very complex and require their calculation to be derived from the previous calculated problems. Calculator is a great tool because without a calculator no one would be happy with that tedious calculation work. However, the development of the calculator seems to have reached the final stage which is completely wrong. The calculator needs to be transformed into a master calculator which may not be limited to those problems on it right now. We need a calculator which will include most of the problems in the engineering and scientific realm. We need a calculator which should show the calculation process mostly like the process we see on the paper. When a problem has been defined a user with the knowledge of formula and variables should calculate the result with no confusion. It’s going to be a greater resource for engineers and scientists. It will help a critical mind to associate the problem with the calculation process. Therefore, we must uplift the calculator to the next level, and bring a learning experience to the users.
 
-# 6. Impact
+# Impact
 There is a great learning experience in this capstone project. After the completion of this project the following skills have been obtained.
 ·         Project management skills.
 ·         Practical experience in technologies.
@@ -23,10 +23,10 @@ There is a great learning experience in this capstone project. After the complet
 ·         Critical thinking.
 ·         Time management.
 
-# 7. Who
+# Who
 The master calculator should be a greater resource for engineers and scientists who don’t want to add the burden of calculation to their thoughts. The master calculator will be there as a library of many formulas as well as doing the work of calculation. So, the north star in this project is engineers and scientists. The carryover who would benefit on this master calculator are students. Most of the students get confused when using the calculator by the way the calculator was designed. They need a clear layout of the button and formula on each problem they are attempting to calculate. Therefore, the scope of this master calculator is enormous and extended to the global audience.
-# 8. What
+# What
 The constraints of this project are:
-1.       Scope of project: Since the project is a solo project, it means everything is to be done by one person. There are many formulas outside there which may be left out due to the time limit.
-2.       Technology constraints: unlike the major project where the developers need to build front and back end by combining many tools, this project, on the first phase, will focus solely on designing many interfaces using the same tool. For example, Java development platform. Most of the development tools may not be included.
+ Scope of project: Since the project is a solo project, it means everything is to be done by one person. There are many formulas outside there which may be left out due to the time limit.
+Technology constraints: unlike the major project where the developers need to build front and back end by combining many tools, this project, on the first phase, will focus solely on designing many interfaces using the same tool. For example, Java development platform. Most of the development tools may not be included.
 
