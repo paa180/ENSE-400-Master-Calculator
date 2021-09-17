@@ -30,5 +30,6 @@ The master calculator should be a greater resource for engineers and scientists 
 The constraints of this project are:
  Scope of project: Since the project is a solo project, it means everything is to be done by one person. There are many formulas outside there which may be left out due to the time limit.
 Technology constraints: unlike the major project where the developers need to build front and back end by combining many tools, this project, on the first phase, will focus solely on designing many interfaces using the same tool. For example, Java development platform. Most of the development tools may not be included.
+
 #Vlog
 https://www.youtube.com/watch?v=QutqhTHLU40
