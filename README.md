@@ -1,5 +1,5 @@
 ﻿# ENSE-400-Master-Calculator
- Activities are under Project 1
+ Activities progress are under Project 1
 
 # Documents
 # Introduction
