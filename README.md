@@ -46,3 +46,5 @@ Technology constraints: unlike the major project where the developers need to bu
 
 # Vlog
 https://www.youtube.com/watch?v=QutqhTHLU40
+
+[ENSE 400 Capstone Project.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225877/ENSE.400.Capstone.Project.pptx)
