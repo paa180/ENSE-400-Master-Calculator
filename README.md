@@ -1,8 +1,9 @@
-#Scrum Documents
-file:///F:/PROJECT%20SCOPE%20STATEMENT.pdf
-file:///F:/Project%20Role%20and%20Responsibilities.pdf
-file:///F:/Response%20to%20questions.pdf
-file:///F:/Check-in,%20Sept%2024.pdf
+#Scrum Documents[BUSINESS CASE.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225841/BUSINESS.CASE.pdf)
+[PROJECT SCOPE STATEMENT.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225844/PROJECT.SCOPE.STATEMENT.pdf)
+[Project Role and Responsibilities.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225846/Project.Role.and.Responsibilities.pdf)
+[Response to questions.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225849/Response.to.questions.pdf)
+[Check-in, Sept 24.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225850/Check-in.Sept.24.pdf)
+
 
 # ENSE-400-Master-Calculator
  Activities progress are under Project 1
