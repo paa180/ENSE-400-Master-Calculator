@@ -1,4 +1,11 @@
-﻿# ENSE-400-Master-Calculator
+#Scrum Documents
+Business Case: file:///F:/BUSINESS%20CASE.pdf
+Project Scope Statement: file:///F:/PROJECT%20SCOPE%20STATEMENT.pdf
+Project Roles and Responsibilities: file:///F:/Project%20Role%20and%20Responsibilities.pdf
+Response to Questions: file:///F:/Response%20to%20questions.pdf
+Check-in, Sept 24: file:///F:/Check-in,%20Sept%2024.pdf
+
+# ENSE-400-Master-Calculator
  Activities progress are under Project 1
 
 # Documents
