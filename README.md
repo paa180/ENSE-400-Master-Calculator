@@ -1,16 +1,3 @@
-
-# Scrum Documents
-
-[BUSINESS CASE.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225841/BUSINESS.CASE.pdf)
-
-[PROJECT SCOPE STATEMENT.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225844/PROJECT.SCOPE.STATEMENT.pdf)
-
-[Project Role and Responsibilities.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225846/Project.Role.and.Responsibilities.pdf)
-
-[Response to questions.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225849/Response.to.questions.pdf)
-
-[Check-in, Sept 24.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225850/Check-in.Sept.24.pdf)
-
 [ENSE 400 Capstone Project VLog #1 power point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225877/ENSE.400.Capstone.Project.pptx)
 
 [ENSE 400 CAPSTONE PROJECT VLOG #2 Power point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7351663/ENSE.400.CAPSTONE.PROJECT.VLOG.2.Power.point.pptx)
