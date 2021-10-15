@@ -1,5 +1,5 @@
 
-#Scrum Documents
+# Scrum Documents
 
 [BUSINESS CASE.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225841/BUSINESS.CASE.pdf)
 
