@@ -1,3 +1,4 @@
+[ENSE 400 CAPSTONE PROJECT VLOG #2 Power point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7351663/ENSE.400.CAPSTONE.PROJECT.VLOG.2.Power.point.pptx)
 #Scrum Documents
 
 [BUSINESS CASE.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225841/BUSINESS.CASE.pdf)
