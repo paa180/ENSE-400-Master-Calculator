@@ -10,6 +10,11 @@
 
 [Check-in, Sept 24.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225850/Check-in.Sept.24.pdf)
 
+[ENSE 400 Capstone Project.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225877/ENSE.400.Capstone.Project.pptx)
+# Vlog 1
+https://www.youtube.com/watch?v=QutqhTHLU40
+# Vlog 2
+https://studio.youtube.com/video/NDxqz9a54Yk/edit
 
 # ENSE-400-Master-Calculator
 Activities progress are under Project 1.
@@ -44,11 +49,4 @@ The master calculator should be a greater resource for engineers and scientists 
 The constraints of this project are:
  Scope of project: Since the project is a solo project, it means everything is to be done by one person. There are many formulas outside there which may be left out due to the time limit.
 Technology constraints: unlike the major project where the developers need to build front and back end by combining many tools, this project, on the first phase, will focus solely on designing many interfaces using the same tool. For example, Java development platform. Most of the development tools may not be included.
-
-# Vlog 1
-https://www.youtube.com/watch?v=QutqhTHLU40
-# Vlog 2
-https://studio.youtube.com/video/NDxqz9a54Yk/edit
-
-[ENSE 400 Capstone Project.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225877/ENSE.400.Capstone.Project.pptx)
 
