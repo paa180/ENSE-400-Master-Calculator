@@ -1,3 +1,4 @@
+[master branch contained the development code]
 [ENSE 400 Capstone Project VLog #1 power point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225877/ENSE.400.Capstone.Project.pptx)
 
 [ENSE 400 CAPSTONE PROJECT VLOG #2 Power point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7351663/ENSE.400.CAPSTONE.PROJECT.VLOG.2.Power.point.pptx)
