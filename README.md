@@ -1,6 +1,7 @@
-[introductionToOSI.docx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7568389/introductionToOSI.docx)
-[Scrum4_power_point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7568391/Scrum4_power_point.pptx)
 [master branch contained the development code]
+
+[Scrum4_power_point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7568391/Scrum4_power_point.pptx)
+
 
 [ENSE 400 Capstone Project VLog #1 power point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225877/ENSE.400.Capstone.Project.pptx)
 
