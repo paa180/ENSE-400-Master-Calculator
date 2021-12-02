@@ -30,13 +30,12 @@ class _TrigonometricDegreesState extends State<TrigonometricDegrees> {
         expression = expression.replaceAll('÷', '/'); //division expression
         expression =
             expression.replaceAll('√', 'sqrt'); //square root expression
-        //expression = expression.replaceAll('cos', 'cos'); //cosine expression
-        // expression = expression.replaceAll('sin', 'sin'); //sine expression
-        //expression = expression.replaceAll('tan', 'tan'); //tangent expression
+        expression = expression.replaceAll('cos', 'cos'); //cosine expression
+        expression = expression.replaceAll('sin', 'sin'); //sine expression
+        expression = expression.replaceAll('tan', 'tan'); //tangent expression
         expression = expression.replaceAll('log', 'log'); //log expression
         expression = expression.replaceAll('ln', 'ln'); //log expression
-        // expression = expression.replaceAll('(', '(');
-        //expression = expression.replaceAll(')', ')');
+
         expression =
             expression.replaceAll('π', '3.1415926535897932 '); //pi expression
 

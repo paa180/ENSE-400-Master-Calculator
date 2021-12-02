@@ -111,8 +111,8 @@ class _PowerState extends State<Power> {
                   child: const Text(
                     //text info
                     'Energy: Power\n'
-                    'P = power Energy\n'
-                    'w = work done\nt = time',
+                    'P = power Energy (W)\n'
+                    'w = work done (J)\nt = time (s)',
                     style: TextStyle(
                       fontSize: 20.0,
                     ),

@@ -20,13 +20,14 @@ class BasicCalcState extends State<BasicCalc> {
     //pressed button function containing the basic calculator logic
     setState(() {
       if (btnVal == "CL") {
-        input = "0";
-        result = "0";
+        input = "";
+        result = "";
       } else if (btnVal == "⌫") {
         input = input.substring(0, input.length - 1);
-        if (input == "") input = "0";
+        if (input == "") input = "";
       } else if (btnVal == "=") {
         expression = input;
+        input = result;
         expression =
             expression.replaceAll('x', '*'); //multiplication expression
         expression = expression.replaceAll('÷', '/'); //division expression
@@ -135,7 +136,7 @@ class BasicCalcState extends State<BasicCalc> {
                     calBtn("CL"),
                     calBtn("⌫"),
                     calBtn("^"),
-                    calBtn("÷"),
+                    calBtn("x"),
                   ],
                 ),
                 Row(
@@ -144,7 +145,7 @@ class BasicCalcState extends State<BasicCalc> {
                     calBtn("7"),
                     calBtn("8"),
                     calBtn("9"),
-                    calBtn("x"),
+                    calBtn("÷"),
                   ],
                 ),
                 Row(

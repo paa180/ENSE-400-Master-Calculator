@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:math_expressions/math_expressions.dart';
@@ -32,8 +34,7 @@ class _TrigonometricRadState extends State<TrigonometricRad> {
             expression.replaceAll('√', 'sqrt'); //square root expression
         expression = expression.replaceAll('log', 'log'); //log expression
         expression = expression.replaceAll('ln', 'ln'); //log expression
-        // expression = expression.replaceAll('(', '(');
-        //expression = expression.replaceAll(')', ')');
+
         expression =
             expression.replaceAll('π', '3.1415926535897932 '); //pi expression
 

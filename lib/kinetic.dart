@@ -111,9 +111,9 @@ class _KineticState extends State<Kinetic> {
                   child: const Text(
                     //text info
                     'Energy: Kinetic\n'
-                    'KE = Kinetic Energy\n'
-                    'm = mass\n'
-                    'v = velocity',
+                    'KE = Kinetic Energy (J)\n'
+                    'm = mass (kg)\n'
+                    'v = velocity (m/s)',
                     style: TextStyle(
                       fontSize: 20.0,
                     ),

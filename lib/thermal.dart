@@ -20,15 +20,14 @@ class _ThermalState extends State<Thermal> {
     //pressed button function containing the basic calculator logic
     setState(() {
       if (btnVal == "CL") {
-        input = "0";
-        result = "0";
+        input = "";
+        result = "";
       } else if (btnVal == "⌫") {
         input = input.substring(0, input.length - 1);
         if (input == "") input = "0";
       } else if (btnVal == "=") {
         expression = input;
-        expression =
-            expression.replaceAll('x', '*'); //multiplication expression
+        expression = expression.replaceAll('x', '*'); //multiplication expression
         expression = expression.replaceAll('÷', '/'); //division expression
         expression =
             expression.replaceAll('√', 'sqrt'); //square root expression
@@ -105,19 +104,17 @@ class _ThermalState extends State<Thermal> {
                 Container(
                   //container style
                   alignment: Alignment.topLeft,
-                  height: 150.0,
+                  height: 110.0,
                   width: 250.0,
                   color: Colors.white,
                   //alignment: Alignment.bottomLeft,
                   child: const Text(
                     //text info
                     'Energy: Thermal\n'
-                    'Q = Thermal Energy\n'
-                    'm = mass\n'
-                    'c = specific heat\n'
-                    '∆T = change in temperature\n'
-                    'T1 = initial temperature\n'
-                    'T2 = final temperature',
+                    'Q = Thermal Energy (J)\n'
+                    'm = mass (kg)\n'
+                    'c = specific heat (J/Kg C)\n'
+                    '∆T = change in temperature (C)\n',
                     style: TextStyle(
                       fontSize: 16.0,
                     ),
@@ -128,12 +125,10 @@ class _ThermalState extends State<Thermal> {
                 Container(
                   //container for equation, and its style
                   alignment: Alignment.topLeft,
-                  height: 60.0,
+                  height: 30.0,
                   width: 140,
                   color: Colors.white,
-                  child: const Text(
-                      'Q = mc∆T\n'
-                      'Q = mc(T2-T1)',
+                  child: const Text('Q = mc∆T\n',
                       style: TextStyle(fontSize: 18.0)),
                 ),
               ],

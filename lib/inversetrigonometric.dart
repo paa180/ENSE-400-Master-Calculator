@@ -35,8 +35,6 @@ class _InverseTrigonometricState extends State<InverseTrigonometric> {
         expression = expression.replaceAll('sinh', 'tan'); //tangent expression
         expression = expression.replaceAll('log', 'log'); //log expression
         expression = expression.replaceAll('ln', 'ln'); //log expression
-        expression = expression.replaceAll('(', '(');
-        expression = expression.replaceAll(')', ')');
         expression =
             expression.replaceAll('π', '3.1415926535897932 '); //pi expression
 

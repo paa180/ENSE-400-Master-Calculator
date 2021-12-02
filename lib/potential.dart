@@ -105,22 +105,22 @@ class _PotentialState extends State<Potential> {
                 Container(
                   //container style
                   alignment: Alignment.topLeft,
-                  height: 130.0,
+                  height: 120.0,
                   width: 250.0,
                   color: Colors.white,
                   child: const Text(
                     //text info
                     'Energy: Potential\n'
-                    'PE = Potential Energy\n'
-                    'm = mass\ng = gravity\n'
-                    'h = height',
+                    'PE = Potential Energy (J)\n'
+                    'm = mass (Kg)\ng = gravity (m/s^2)\n'
+                    'h = height (m)',
                     style: TextStyle(
                       fontSize: 20.0,
                     ),
                   ),
                 ),
                 const Padding(
-                    padding: EdgeInsets.all(10.0)), //separating padding
+                    padding: EdgeInsets.all(22.0)), //separating padding
                 Container(
                   //container for equation, and its style
                   alignment: Alignment.topLeft,

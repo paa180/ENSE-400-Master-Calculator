@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
               children: <Widget>[
                 Padding(
                   //the padding to separate the top bar and the basicCalc button
-                  padding: const EdgeInsets.all(6.0),
+                  padding: const EdgeInsets.all(10.0),
                   child: MaterialButton(
                     // this child contained the basic pressing button styles
                     height: 100.0,
@@ -59,7 +59,7 @@ class MyApp extends StatelessWidget {
                 ),
                 Padding(
                   //the padding to separate the top bar and the engineeringCalc button
-                  padding: const EdgeInsets.all(6.0),
+                  padding: const EdgeInsets.all(10.0),
                   child: MaterialButton(
                     //this child contained the engineering pressing button styles
                     height: 100.0,
@@ -85,7 +85,7 @@ class MyApp extends StatelessWidget {
               children: <Widget>[
                 Padding(
                   //the padding to separate the basicCalc button with scientificCalc button
-                  padding: const EdgeInsets.all(6.0),
+                  padding: const EdgeInsets.all(10.0),
                   child: MaterialButton(
                     //this child contained the scientificCalc pressing button styles
                     height: 100.0,
@@ -105,7 +105,7 @@ class MyApp extends StatelessWidget {
                 ),
                 Padding(
                   //the padding to separate the Engineering button on top and unit conversion button at the bottom
-                  padding: const EdgeInsets.all(6.0),
+                  padding: const EdgeInsets.all(10.0),
                   child: MaterialButton(
                     //this child contained the unit conversion pressing button styles
                     height: 100.0,

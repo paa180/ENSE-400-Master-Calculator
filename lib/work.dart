@@ -110,9 +110,9 @@ class _WorkState extends State<Work> {
                   color: Colors.white,
                   child: const Text(
                     'Energy: work\n'
-                    'w = work done\n'
-                    'F = force\n'
-                    'd = distance',
+                    'w = work done(J)\n'
+                    'F = force (N)\n'
+                    'd = distance (m)',
                     style: TextStyle(
                       fontSize: 20.0,
                     ),
