@@ -1,4 +1,6 @@
-# master branch contained the development code
+ master branch contained the development code
+ 
+ # Scrum Power points and Vlogs
 
 [Scrum4_power_point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7568391/Scrum4_power_point.pptx)
 
