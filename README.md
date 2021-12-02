@@ -17,6 +17,7 @@ https://studio.youtube.com/video/NDxqz9a54Yk/edit
 # ENSE-400-Master-Calculator
 Activities progress are under Project 1.
 There you will see "Automated Kanban with Review" and the project activities.
+Program Code is under a branch master.
 
 # Documents
 # Introduction
