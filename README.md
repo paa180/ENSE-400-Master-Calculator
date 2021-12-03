@@ -1,6 +1,3 @@
-[ENSE400_Vlog#3.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7646629/ENSE400_Vlog.3.pptx)
- master branch contained the development code
- 
  # Scrum Power points and Vlogs
 
 [Scrum4_power_point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7568391/Scrum4_power_point.pptx)
@@ -9,6 +6,10 @@
 [ENSE 400 Capstone Project VLog #1 power point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225877/ENSE.400.Capstone.Project.pptx)
 
 [ENSE 400 CAPSTONE PROJECT VLOG #2 Power point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7351663/ENSE.400.CAPSTONE.PROJECT.VLOG.2.Power.point.pptx)
+
+[ENSE400_Vlog#3.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7646629/ENSE400_Vlog.3.pptx)
+ master branch contained the development code
+
 
 # Vlog 1
 https://www.youtube.com/watch?v=QutqhTHLU40
