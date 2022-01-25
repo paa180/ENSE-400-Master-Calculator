@@ -1,3 +1,4 @@
+[ENSE 477 progress and presentation.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7930644/ENSE.477.progress.and.presentation.pptx)
  # Scrum Power points and Vlogs
 
 [Scrum4_power_point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7568391/Scrum4_power_point.pptx)
