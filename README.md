@@ -22,6 +22,10 @@ https://studio.youtube.com/video/NDxqz9a54Yk/edit
 # Vlog 3
 https://www.youtube.com/watch?v=JfqKNFmuRFg
 
+#Vlog 4
+https://www.youtube.com/watch?v=72bZA32vYws
+
+
 # ENSE-400-Master-Calculator
 Activities progress are under Project 1.
 There you will see "Automated Kanban with Review" and the project activities.
