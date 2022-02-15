@@ -1,4 +1,6 @@
 [Scrum #6.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/8069263/Scrum.6.pptx)
+
+
 [ENSE 477 Vlog4.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7977639/ENSE.477.Vlog4.pptx)
 
 
