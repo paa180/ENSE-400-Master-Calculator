@@ -34,6 +34,9 @@ https://www.youtube.com/watch?v=JfqKNFmuRFg
 # Vlog 4
 https://www.youtube.com/watch?v=72bZA32vYws
 
+# Vlog 5
+https://www.youtube.com/watch?v=l-q7c0Y7C4Q
+
 
 # ENSE-400-Master-Calculator
 Activities progress are under Project 1.
