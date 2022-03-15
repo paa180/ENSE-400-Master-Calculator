@@ -1,3 +1,4 @@
+[ENSE475Scrum7.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/8255602/ENSE475Scrum7.pptx)
 [Project_Bazaar_Day_2.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/8161133/Project_Bazaar_Day_2.pptx)
 
 
