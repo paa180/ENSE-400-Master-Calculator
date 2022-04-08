@@ -30,7 +30,7 @@ class Engineeringcalc extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.lightBlueAccent, //calculator background color
       appBar: AppBar(
-        title: const Text("EngineeringCalc", style: TextStyle(fontSize: 40)),
+        title: const Text("Engineering", style: TextStyle(fontSize: 25)),
         backgroundColor: Colors.indigo, //top bar background color and style
       ),
       body: GridView.count(

@@ -27,6 +27,8 @@ class _InverseTrigonometricState extends State<InverseTrigonometric> {
         expression =
             expression.replaceAll('x', '*'); //Multiplication expression
         expression = expression.replaceAll('÷', '/'); //division expression
+        expression = expression.replaceAll('+', '+'); //division expression
+        expression = expression.replaceAll('-', '-'); //division expression
         expression =
             expression.replaceAll('√', 'sqrt'); //square root expression
         expression = expression.replaceAll('sinh', 'cos'); //cosine expression
@@ -76,7 +78,7 @@ class _InverseTrigonometricState extends State<InverseTrigonometric> {
           ),
         ]),
         child: MaterialButton(
-          padding: const EdgeInsets.all(20.0),
+          padding: const EdgeInsets.all(5.0),
           child: Text(
             btnVal,
             style: const TextStyle(
@@ -95,7 +97,7 @@ class _InverseTrigonometricState extends State<InverseTrigonometric> {
       child: Scaffold(
         backgroundColor: Colors.lightBlueAccent, //background color
         appBar: AppBar(
-          title: const Text("ScientificCalc", style: TextStyle(fontSize: 40)),
+          title: const Text("ScientificCalc", style: TextStyle(fontSize: 25)),
           backgroundColor: Colors.indigo, //top bar background color
         ),
         body: Column(
@@ -105,7 +107,7 @@ class _InverseTrigonometricState extends State<InverseTrigonometric> {
               //container alignment and style
               alignment: Alignment.bottomCenter,
               padding:
-                  const EdgeInsets.symmetric(horizontal: 10.0, vertical: 10),
+                  const EdgeInsets.symmetric(horizontal: 10.0, vertical: 6),
               child: Column(
                 //the calculator input window and display style
                 children: <Widget>[
@@ -119,9 +121,9 @@ class _InverseTrigonometricState extends State<InverseTrigonometric> {
                   ),
                 ],
               ),
-              margin: const EdgeInsets.all(10.0),
+              margin: const EdgeInsets.all(3.0),
               decoration: BoxDecoration(
-                border: Border.all(width: 40, color: Colors.lightBlue),
+                border: Border.all(width: 20, color: Colors.lightBlue),
               ),
             ),
             const Expanded(

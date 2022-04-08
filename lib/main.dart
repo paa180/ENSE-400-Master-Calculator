@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
             backgroundColor: Colors.indigo, //top bar background color
             title: const Center(
                 child: //this child contained outline master calculator with 40 font size.
-                    Text('Master Calculator', style: TextStyle(fontSize: 40)))),
+                    Text('Master Calculator', style: TextStyle(fontSize: 25)))),
         body: GridView.count(
           crossAxisCount: 2,
           crossAxisSpacing: 20.0,

@@ -20,11 +20,7 @@ class _UnitconversionState extends State<Unitconversion> {
     'Grams',
     'Kilograms',
     'Feets',
-    'Miles',
-    'ounces',
-    'celcius',
-    'fahrenheit',
-    'kelvin'
+    'Miles'
   ];
   final Map<String, int> measuresMap = {
     'Meters': 0,
@@ -33,11 +29,7 @@ class _UnitconversionState extends State<Unitconversion> {
     'Kilograms': 3,
     'Feets': 4,
     'Miles': 5,
-    'pounds': 6,
-    'ounces': 7,
-    'celcius': 8,
-    'fahrenheit': 9,
-    'kelvin': 10
+    'pounds': 6
   };
 
   dynamic formulas = {
@@ -49,9 +41,6 @@ class _UnitconversionState extends State<Unitconversion> {
     '5': [1609.34, 1.60934, 0, 0, 5280, 1, 0, 0],
     '6': [0, 0, 453.592, 0.4535, 0, 0, 1, 16],
     '7': [0, 0, 28.3495, 0.02834, 3.28084, 0, 0.1],
-    '8': [0, 0, 0, 0, 0, 0, 0, 0, 1, 100, 100],
-    '9': [0, 0, 0, 0, 0, 0, 0, 0, 212, 1, 212],
-    '10': [0, 0, 0, 0, 0, 0, 0, 0, 255.928, 273.15, 310.928]
   };
 
   void convert(double value, String from, String to) {
@@ -84,9 +73,9 @@ class _UnitconversionState extends State<Unitconversion> {
     return Scaffold(
       backgroundColor: Colors.orangeAccent,
       appBar: AppBar(
-          title: const Text("Unit Conversion", style: TextStyle(fontSize: 40)),
+          title: const Text("Conversion", style: TextStyle(fontSize: 25)),
           backgroundColor: Colors.indigo),
-      body: Center(
+      body: SingleChildScrollView(
         child: Padding(
           padding: const EdgeInsets.symmetric(vertical: 30),
           child: Column(
@@ -204,6 +193,7 @@ class _UnitconversionState extends State<Unitconversion> {
               const SizedBox(
                 height: 20,
               ),
+              // ignore: deprecated_member_use
               FlatButton(
                 onPressed: () {
                   if (_startMeasures.isEmpty ||
@@ -232,10 +222,10 @@ class _UnitconversionState extends State<Unitconversion> {
                 ),
               ),
               Padding(
-                padding: const EdgeInsets.symmetric(vertical: 25),
+                padding: const EdgeInsets.symmetric(vertical: 10),
                 child: Container(
                   alignment: Alignment.center,
-                  height: 100.0,
+                  height: 60.0,
                   width: 300.0,
                   color: Colors.white,
                   // ignore: unnecessary_new

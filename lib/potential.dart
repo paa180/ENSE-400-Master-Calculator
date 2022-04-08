@@ -29,6 +29,8 @@ class _PotentialState extends State<Potential> {
         expression =
             expression.replaceAll('x', '*'); //multiplication expression
         expression = expression.replaceAll('÷', '/'); //division expression
+        expression = expression.replaceAll('+', '+'); //division expression
+        expression = expression.replaceAll('-', '-'); //division expression
         expression =
             expression.replaceAll('√', 'sqrt'); //square root expression
 
@@ -56,7 +58,7 @@ class _PotentialState extends State<Potential> {
     //calBtn function with all style of the keyboard
     return Expanded(
       child: Container(
-        margin: const EdgeInsets.all(10.0),
+        margin: const EdgeInsets.all(6.0),
         decoration: BoxDecoration(color: Colors.grey[300], boxShadow: const [
           BoxShadow(
             color: Colors.grey,
@@ -72,7 +74,7 @@ class _PotentialState extends State<Potential> {
           ),
         ]),
         child: MaterialButton(
-          padding: const EdgeInsets.all(16.0),
+          padding: const EdgeInsets.all(4.0),
           child: Text(
             btnVal,
             style: const TextStyle(
@@ -91,7 +93,7 @@ class _PotentialState extends State<Potential> {
       child: Scaffold(
         backgroundColor: Colors.lightBlueAccent, //background color
         appBar: AppBar(
-          title: const Text("Potential Energy", style: TextStyle(fontSize: 40)),
+          title: const Text("Potential Energy", style: TextStyle(fontSize: 25)),
           backgroundColor: Colors.indigo, //top background color and styles
         ),
         body: Column(
@@ -100,11 +102,11 @@ class _PotentialState extends State<Potential> {
             Row(
               //the first row in column, and this containing all information of the problem
               children: [
-                const Padding(padding: EdgeInsets.all(6.0)),
+                const Padding(padding: EdgeInsets.all(2.0)),
                 Container(
                   //container style
                   alignment: Alignment.topLeft,
-                  height: 120.0,
+                  height: 130.0,
                   width: 250.0,
                   color: Colors.white,
                   child: const Text(
@@ -119,22 +121,23 @@ class _PotentialState extends State<Potential> {
                   ),
                 ),
                 const Padding(
-                    padding: EdgeInsets.all(6.0)), //separating padding
+                    padding: EdgeInsets.all(2.0)), //separating padding
                 Container(
                   //container for equation, and its style
                   alignment: Alignment.topLeft,
-                  height: 40.0,
-                  width: 100,
+                  height: 30.0,
+                  width: 115,
                   color: Colors.white,
                   child:
-                      const Text('PE = mgh', style: TextStyle(fontSize: 20.0)),
+                      const Text('PE = mgh', style: TextStyle(fontSize: 18.0)),
                 ),
               ],
             ),
             Container(
               //container for input and display and the style
               alignment: Alignment.bottomCenter,
-              padding: const EdgeInsets.symmetric(horizontal: 6.0, vertical: 6),
+              padding:
+                  const EdgeInsets.symmetric(horizontal: 2.0, vertical: 2.0),
               child: Column(
                 children: <Widget>[
                   Text(
@@ -148,9 +151,9 @@ class _PotentialState extends State<Potential> {
                   ),
                 ],
               ),
-              margin: const EdgeInsets.all(10.0),
+              margin: const EdgeInsets.all(2.0),
               decoration: BoxDecoration(
-                border: Border.all(width: 40, color: Colors.lightBlue),
+                border: Border.all(width: 20, color: Colors.lightBlue),
               ),
             ),
             const Expanded(

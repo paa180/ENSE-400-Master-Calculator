@@ -1,5 +1,6 @@
 //import 'dart:html';
 //import 'dart:math';
+
 import 'package:flutter/material.dart';
 import 'package:math_expressions/math_expressions.dart';
 //import 'package:mc/trigonometricdegrees.dart';
@@ -21,22 +22,24 @@ class _TrigonometricDegreesState extends State<TrigonometricDegrees> {
   pressedButton(String btnVal) {
     //pressed button function containing the scientific calculator logic
     setState(() {
+      if (btnVal == 'log') {}
       if (btnVal == "CL") {
         input = "";
         result = "";
       } else if (btnVal == "⌫") {
         input = input.substring(0, input.length - 1);
         if (input == "") input = "";
-      } else if (btnVal == ')') {
       } else if (btnVal == "=") {
         expression = input;
         expression =
             expression.replaceAll('x', '*'); //Multiplication expression
         expression = expression.replaceAll('÷', '/'); //division expression
+        expression = expression.replaceAll('+', '+'); //division expression
+        expression = expression.replaceAll('-', '-'); //division expression
         expression =
             expression.replaceAll('√', 'sqrt'); //square root expression
         expression = expression.replaceAll('log', 'log'); //cosine expression
-        //expression = expression.replaceAll('sin', 'sine'); //sine expression
+        expression = expression.replaceAll('sin', 'sin'); //sine expression
         expression =
             expression.replaceAll('π', '3.1415926535897932 '); //pi expression
 
@@ -79,7 +82,7 @@ class _TrigonometricDegreesState extends State<TrigonometricDegrees> {
           ),
         ]),
         child: MaterialButton(
-          padding: const EdgeInsets.all(20.0),
+          padding: const EdgeInsets.all(5.0),
           child: Text(
             btnVal,
             style: const TextStyle(
@@ -99,7 +102,7 @@ class _TrigonometricDegreesState extends State<TrigonometricDegrees> {
         backgroundColor: Colors.lightBlueAccent, //background color
         appBar: AppBar(
           title: const Text("ScientificCalc in Deg",
-              style: TextStyle(fontSize: 30)),
+              style: TextStyle(fontSize: 25)),
           backgroundColor: Colors.indigo, //top bar background color
         ),
         body: Column(
@@ -109,7 +112,7 @@ class _TrigonometricDegreesState extends State<TrigonometricDegrees> {
               //container alignment and style
               alignment: Alignment.bottomCenter,
               padding:
-                  const EdgeInsets.symmetric(horizontal: 10.0, vertical: 10),
+                  const EdgeInsets.symmetric(horizontal: 10.0, vertical: 6),
               child: Column(
                 //the calculator input window and display style
                 children: <Widget>[
@@ -123,9 +126,9 @@ class _TrigonometricDegreesState extends State<TrigonometricDegrees> {
                   ),
                 ],
               ),
-              margin: const EdgeInsets.all(10.0),
+              margin: const EdgeInsets.all(3.0),
               decoration: BoxDecoration(
-                border: Border.all(width: 40, color: Colors.lightBlue),
+                border: Border.all(width: 20, color: Colors.lightBlue),
               ),
             ),
             const Expanded(

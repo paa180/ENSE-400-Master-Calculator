@@ -1,0 +1,15 @@
+{
+    "editor.unicodeHighlight.nonBasicASCII": true,
+    "editor.unicodeHighlight.includeComments": true,
+    "workbench.editor.autoLockGroups": {
+        "workbench.input.interactive": true,
+        "interactive": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "imagePreview.previewEditor": true,
+        "vscode.markdown.preview.editor": true,
+        "jsProfileVisualizer.cpuprofile.table": true,
+        "java.formatterSettingsEditor": true,
+        "jupyter-notebook": true,
+        "mainThreadWebview-markdown.preview": true
+    }
+}

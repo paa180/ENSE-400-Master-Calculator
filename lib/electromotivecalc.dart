@@ -27,6 +27,8 @@ class _ElectromotivecalcState extends State<Electromotivecalc> {
         expression =
             expression.replaceAll('x', '*'); //multiplication expression
         expression = expression.replaceAll('÷', '/'); //division expression
+        expression = expression.replaceAll('+', '+'); //division expression
+        expression = expression.replaceAll('-', '-'); //division expression
         expression =
             expression.replaceAll('√', 'sqrt'); //square root expression
         try {
@@ -53,7 +55,7 @@ class _ElectromotivecalcState extends State<Electromotivecalc> {
     //calBtn function with all style of the keyboard
     return Expanded(
       child: Container(
-        margin: const EdgeInsets.all(10.0),
+        margin: const EdgeInsets.all(6.0),
         decoration: BoxDecoration(color: Colors.grey[300], boxShadow: const [
           BoxShadow(
             color: Colors.grey,
@@ -69,7 +71,7 @@ class _ElectromotivecalcState extends State<Electromotivecalc> {
           ),
         ]),
         child: MaterialButton(
-          padding: const EdgeInsets.all(18.0),
+          padding: const EdgeInsets.all(4.0),
           child: Text(
             btnVal,
             style: const TextStyle(
@@ -88,7 +90,7 @@ class _ElectromotivecalcState extends State<Electromotivecalc> {
       child: Scaffold(
         backgroundColor: Colors.lightBlueAccent, //background color
         appBar: AppBar(
-          title: const Text("Electromotive", style: TextStyle(fontSize: 40)),
+          title: const Text("Electromotive", style: TextStyle(fontSize: 25)),
           backgroundColor: Colors.indigo, //top background color and styles
         ),
         body: Column(
@@ -97,12 +99,12 @@ class _ElectromotivecalcState extends State<Electromotivecalc> {
             Row(
               //the first row in column, and this containing all information of the problem
               children: [
-                const Padding(padding: EdgeInsets.all(4.0)), //padding style
+                const Padding(padding: EdgeInsets.all(2.0)), //padding style
                 Container(
                   //container style
                   alignment: Alignment.topLeft,
-                  height: 120.0,
-                  width: 250.0,
+                  height: 122.0,
+                  width: 255.0,
                   color: Colors.white,
                   child: const Text(
                     //text info
@@ -117,12 +119,12 @@ class _ElectromotivecalcState extends State<Electromotivecalc> {
                   ),
                 ),
                 const Padding(
-                    padding: EdgeInsets.all(5.0)), //separating padding
+                    padding: EdgeInsets.all(2.0)), //separating padding
                 Container(
                   //container for equation, and its style
                   alignment: Alignment.topLeft,
-                  height: 40.0,
-                  width: 110,
+                  height: 30.0,
+                  width: 100,
                   color: Colors.white,
                   child: const Text('emf = V + Ir',
                       style: TextStyle(fontSize: 18.0)),
@@ -133,7 +135,7 @@ class _ElectromotivecalcState extends State<Electromotivecalc> {
               //container for input, display and the style of
               alignment: Alignment.bottomCenter,
               padding:
-                  const EdgeInsets.symmetric(horizontal: 10.0, vertical: 6),
+                  const EdgeInsets.symmetric(horizontal: 2.0, vertical: 2.0),
               child: Column(
                 children: <Widget>[
                   Text(
@@ -147,9 +149,9 @@ class _ElectromotivecalcState extends State<Electromotivecalc> {
                   ),
                 ],
               ),
-              margin: const EdgeInsets.all(10.0),
+              margin: const EdgeInsets.all(2.0),
               decoration: BoxDecoration(
-                border: Border.all(width: 40, color: Colors.lightBlue),
+                border: Border.all(width: 20, color: Colors.lightBlue),
               ),
             ),
             const Expanded(

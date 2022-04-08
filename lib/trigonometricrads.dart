@@ -11,7 +11,7 @@ class TrigonometricRad extends StatefulWidget {
 class _TrigonometricRadState extends State<TrigonometricRad> {
   String result = ""; //the calculated result
   String expression = ""; //expression contained in math_expressions package
-  String input = ""; //the input from the user
+  String input = ""; //the input from the use
 
   pressedButton(String btnVal) {
     //pressed button function containing the scientific calculator logic in rad
@@ -27,6 +27,8 @@ class _TrigonometricRadState extends State<TrigonometricRad> {
         expression =
             expression.replaceAll('x', '*'); //Multiplication expression
         expression = expression.replaceAll('÷', '/'); //division expression
+        expression = expression.replaceAll('+', '+'); //division expression
+        expression = expression.replaceAll('-', '-'); //division expression
         expression =
             expression.replaceAll('√', 'sqrt'); //square root expression
         expression = expression.replaceAll('log', 'log'); //log expression
@@ -76,7 +78,7 @@ class _TrigonometricRadState extends State<TrigonometricRad> {
           ),
         ]),
         child: MaterialButton(
-          padding: const EdgeInsets.all(20.0),
+          padding: const EdgeInsets.all(5.0),
           child: Text(
             btnVal,
             style: const TextStyle(
@@ -96,7 +98,7 @@ class _TrigonometricRadState extends State<TrigonometricRad> {
         backgroundColor: Colors.lightBlueAccent, //background color
         appBar: AppBar(
           title: const Text("ScientificCalc in Rad",
-              style: TextStyle(fontSize: 30)),
+              style: TextStyle(fontSize: 25)),
           backgroundColor: Colors.indigo, //top bar background color
         ),
         body: Column(
@@ -106,7 +108,7 @@ class _TrigonometricRadState extends State<TrigonometricRad> {
               //container alignment and style
               alignment: Alignment.bottomCenter,
               padding:
-                  const EdgeInsets.symmetric(horizontal: 10.0, vertical: 10),
+                  const EdgeInsets.symmetric(horizontal: 10.0, vertical: 6.0),
               child: Column(
                 //the calculator input window and display style
                 children: <Widget>[
@@ -120,9 +122,9 @@ class _TrigonometricRadState extends State<TrigonometricRad> {
                   ),
                 ],
               ),
-              margin: const EdgeInsets.all(10.0),
+              margin: const EdgeInsets.all(3.0),
               decoration: BoxDecoration(
-                border: Border.all(width: 40, color: Colors.lightBlue),
+                border: Border.all(width: 20, color: Colors.lightBlue),
               ),
             ),
             const Expanded(

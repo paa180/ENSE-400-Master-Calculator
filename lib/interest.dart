@@ -27,6 +27,8 @@ class _InterestState extends State<Interest> {
         expression =
             expression.replaceAll('x', '*'); //multiplication expression
         expression = expression.replaceAll('÷', '/'); //division expression
+        expression = expression.replaceAll('+', '+'); //division expression
+        expression = expression.replaceAll('-', '-'); //division expression
         expression =
             expression.replaceAll('√', 'sqrt'); //square root expression
 
@@ -54,7 +56,7 @@ class _InterestState extends State<Interest> {
     //calBtn function with all style of the keyboard
     return Expanded(
       child: Container(
-        margin: const EdgeInsets.all(8.0),
+        margin: const EdgeInsets.all(6.0),
         decoration: BoxDecoration(color: Colors.grey[300], boxShadow: const [
           BoxShadow(
             color: Colors.grey,
@@ -70,7 +72,7 @@ class _InterestState extends State<Interest> {
           ),
         ]),
         child: MaterialButton(
-          padding: const EdgeInsets.all(20.0),
+          padding: const EdgeInsets.all(4.0),
           child: Text(
             btnVal,
             style: const TextStyle(
@@ -89,7 +91,7 @@ class _InterestState extends State<Interest> {
       child: Scaffold(
         backgroundColor: Colors.lightBlueAccent, //background color
         appBar: AppBar(
-          title: const Text("Interest", style: TextStyle(fontSize: 40)),
+          title: const Text("Interest", style: TextStyle(fontSize: 25)),
           backgroundColor: Colors.indigo, //top background color and styles
         ),
         body: Column(
@@ -98,12 +100,12 @@ class _InterestState extends State<Interest> {
             Row(
               //the first row in column, and this containing all information of the problem
               children: [
-                const Padding(padding: EdgeInsets.all(4.0)),
+                const Padding(padding: EdgeInsets.all(2.0)),
                 Container(
                   //container style
                   alignment: Alignment.topLeft,
-                  height: 120.0,
-                  width: 230.0,
+                  height: 130.0,
+                  width: 250.0,
                   color: Colors.white,
                   child: const Text(
                     //text info
@@ -118,15 +120,15 @@ class _InterestState extends State<Interest> {
                   ),
                 ),
                 const Padding(
-                    padding: EdgeInsets.all(8.0)), //separating padding
+                    padding: EdgeInsets.all(2.0)), //separating padding
                 Container(
                   //container for equation, and its style
                   alignment: Alignment.topLeft,
-                  height: 40.0,
-                  width: 130,
+                  height: 30.0,
+                  width: 115,
                   color: Colors.white,
                   child:
-                      const Text('I = Prt', style: TextStyle(fontSize: 22.0)),
+                      const Text('I = Prt', style: TextStyle(fontSize: 18.0)),
                 ),
               ],
             ),
@@ -134,7 +136,7 @@ class _InterestState extends State<Interest> {
               //container for input, display and the style of
               alignment: Alignment.bottomCenter,
               padding:
-                  const EdgeInsets.symmetric(horizontal: 10.0, vertical: 6),
+                  const EdgeInsets.symmetric(horizontal: 2.0, vertical: 2.0),
               child: Column(
                 children: <Widget>[
                   Text(
@@ -148,9 +150,9 @@ class _InterestState extends State<Interest> {
                   ),
                 ],
               ),
-              margin: const EdgeInsets.all(8.0),
+              margin: const EdgeInsets.all(2.0),
               decoration: BoxDecoration(
-                border: Border.all(width: 40, color: Colors.lightBlue),
+                border: Border.all(width: 20, color: Colors.lightBlue),
               ),
             ),
             const Expanded(

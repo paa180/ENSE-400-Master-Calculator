@@ -18,7 +18,7 @@ class ScientificCalcState extends State<ScientificCalc> {
       child: Scaffold(
         backgroundColor: Colors.lightBlueAccent, //background color
         appBar: AppBar(
-          title: const Text("ScientificCalc", style: TextStyle(fontSize: 40)),
+          title: const Text("ScientificCalc", style: TextStyle(fontSize: 25)),
           backgroundColor: Colors.indigo, //top bar background color
         ),
         body: Column(
