@@ -1,3 +1,4 @@
+[Hi_Fi_ScreenShot.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456358/Hi_Fi_ScreenShot.pdf)
 
 
 
