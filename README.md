@@ -23,6 +23,9 @@ https://github.com/paa180/ENSE-400-Master-Calculator/blob/main/PROJECT%20CHARTER
 # User Acceptance Test
 [User Testing Plan.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456348/User.Testing.Plan.pdf)
 
+# Master Calculator Screen Shut
+https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/masterCalculatorScreenShot.pdf
+
 # Scrum pdf
 
 [PDF Scrum 4](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Instructor%20Scrum%20%234.pdf)
