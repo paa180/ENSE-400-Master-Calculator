@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/masterC
 
 [ENSE 477 progress and presentation.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7930644/ENSE.477.progress.and.presentation.pptx)
 
-# Scrum Power points and Vlogs ENSE400
+# Vlogs ENSE400
 
 
 
