@@ -1,5 +1,5 @@
 # Business Case
-[PDF]([BUSINESS CASE.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456342/BUSINESS.CASE.pdf))
+[BUSINESS CASE.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456342/BUSINESS.CASE.pdf)
 
 # Project Charter
 [https://github.com/paa180/ENSE-400-Master-Calculator/blob/main/PROJECT%20CHARTER.pdf]
