@@ -1,4 +1,4 @@
-[Instructor Scrum #4.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456446/Instructor.Scrum.4.pdf)
+
 # Automated Kanban under project 1, but the code under ENSE477 branch
 # Business Case
 [BUSINESS CASE.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456342/BUSINESS.CASE.pdf)
@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Scum%20
 
 [PDF Scrum 2](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Scrum%232.pdf)
 
-[PDF Scrum 4](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Instructor%20Scrum%20%234.pdf)
+[Instructor Scrum #4.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456446/Instructor.Scrum.4.pdf)
 
 [Scrum 5.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456389/Scrum.N5.pdf)
 
