@@ -1,6 +1,9 @@
 # Business Case
 https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/BUSINESS.CASE.pdf
 
+# Project Charter
+https://github.com/paa180/ENSE-400-Master-Calculator/blob/main/PROJECT%20CHARTER.pdf
+
 # Scrum pdf
 
 [https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Scrum%20%5EN5.pdf]
