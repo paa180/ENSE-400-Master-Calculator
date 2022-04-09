@@ -6,7 +6,7 @@
 [BUSINESS CASE.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456342/BUSINESS.CASE.pdf)
 
 # Project Charter
-[https://github.com/paa180/ENSE-400-Master-Calculator/blob/main/PROJECT%20CHARTER.pdf]
+(https://github.com/paa180/ENSE-400-Master-Calculator/blob/main/PROJECT%20CHARTER.pdf)
 
 # Project Scope
 [PROJECT SCOPE STATEMENT.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456354/PROJECT.SCOPE.STATEMENT.pdf)
