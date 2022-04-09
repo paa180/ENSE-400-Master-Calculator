@@ -7,6 +7,9 @@ https://github.com/paa180/ENSE-400-Master-Calculator/blob/main/PROJECT%20CHARTER
 # Project Scope
 https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/PROJECT.SCOPE.STATEMENT(1).pdf
 
+# Role and Responsibility
+https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Project.Role.and.Responsibilities.pdf
+
 # Scrum pdf
 
 [https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Scrum%20%5EN5.pdf]
