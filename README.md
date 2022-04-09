@@ -16,6 +16,9 @@ https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Hi_Fi_S
 # Master_Calculator_Architectural_Diagram
 https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Master_Calculator_Architecture_Diagram.pdf
 
+# User Acceptance Test
+https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/User%20Testing%20Plan.pdf
+
 # Scrum pdf
 
 [https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Scrum%20%5EN5.pdf]
