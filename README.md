@@ -1,4 +1,4 @@
-[PROJECT SCOPE STATEMENT.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456354/PROJECT.SCOPE.STATEMENT.pdf)
+
 
 
 # Business Case
@@ -8,7 +8,7 @@
 [https://github.com/paa180/ENSE-400-Master-Calculator/blob/main/PROJECT%20CHARTER.pdf]
 
 # Project Scope
-[https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/PROJECT.SCOPE.STATEMENT(1).pdf]
+[PROJECT SCOPE STATEMENT.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456354/PROJECT.SCOPE.STATEMENT.pdf)
 
 # Role and Responsibility
 [Responsibilities.pdf](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Project.Role.and.Responsibilities.pdf)
