@@ -1,4 +1,4 @@
-[Project vlog4.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456466/Project.vlog4.pdf)
+
 
 
 # Automated Kanban under project 1, but the code under ENSE477 branch
@@ -40,7 +40,7 @@
 
 [PDF vlog3](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Vlog3_Dec3.pdf)
 
-[PDF vlog4](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Project%20vlog4.pdf)
+[Project vlog4.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456466/Project.vlog4.pdf)
 
 [PDF vlog5](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Project%20vlog%20%5EN5.pdf)
 
