@@ -13,6 +13,9 @@ https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Project
 # Hi fedility prototype screen shut
 https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Hi_Fi_ScreenShot.pdf
 
+# Master_Calculator_Architectural_Diagram
+https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Master_Calculator_Architecture_Diagram.pdf
+
 # Scrum pdf
 
 [https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Scrum%20%5EN5.pdf]
