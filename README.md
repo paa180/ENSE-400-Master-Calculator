@@ -1,3 +1,4 @@
+[Project Role and Responsibilities.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456384/Project.Role.and.Responsibilities.pdf)
 
 
 
