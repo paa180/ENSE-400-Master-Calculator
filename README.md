@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/masterC
 
 [PDF Scrum 4](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Instructor%20Scrum%20%234.pdf)
 
-[Scrum ^N5.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456389/Scrum.N5.pdf)
+[Scrum 5.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456389/Scrum.N5.pdf)
 
 # Scrum Power points and Vlog ENSE 477
 
