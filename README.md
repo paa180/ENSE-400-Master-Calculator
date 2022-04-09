@@ -12,18 +12,19 @@
 
 [Project_Bazaar_Day_2.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/8161133/Project_Bazaar_Day_2.pptx)
 
-
 [ENSE 477 progress and presentation.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7930644/ENSE.477.progress.and.presentation.pptx)
 
 # Scrum Power points and Vlogs ENSE400
 
-[Scrum4_power_point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7568391/Scrum4_power_point.pptx)
+
 
 [ENSE 400 Capstone Project VLog #1 power point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225877/ENSE.400.Capstone.Project.pptx)
 
 [ENSE 400 CAPSTONE PROJECT VLOG #2 Power point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7351663/ENSE.400.CAPSTONE.PROJECT.VLOG.2.Power.point.pptx)
 
 [ENSE400_Vlog#3.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7646629/ENSE400_Vlog.3.pptx)
+
+[Scrum4_power_point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7568391/Scrum4_power_point.pptx)
 
 
  master branch contained the development code
