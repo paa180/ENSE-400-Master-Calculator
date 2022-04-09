@@ -4,6 +4,9 @@ https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/BUSINES
 # Project Charter
 https://github.com/paa180/ENSE-400-Master-Calculator/blob/main/PROJECT%20CHARTER.pdf
 
+# Project Scope
+https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/PROJECT.SCOPE.STATEMENT(1).pdf
+
 # Scrum pdf
 
 [https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Scrum%20%5EN5.pdf]
