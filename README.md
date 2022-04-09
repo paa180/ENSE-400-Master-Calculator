@@ -1,9 +1,3 @@
-[Project Role and Responsibilities.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456384/Project.Role.and.Responsibilities.pdf)
-
-
-
-
-
 # Business Case
 [BUSINESS CASE.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456342/BUSINESS.CASE.pdf)
 
@@ -14,7 +8,7 @@
 [PROJECT SCOPE STATEMENT.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456354/PROJECT.SCOPE.STATEMENT.pdf)
 
 # Role and Responsibility
-[Responsibilities.pdf](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Project.Role.and.Responsibilities.pdf)
+[Project Role and Responsibilities.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456384/Project.Role.and.Responsibilities.pdf)
 
 # Hi fedility prototype screen shut
 [Hi_Fi_ScreenShot.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456358/Hi_Fi_ScreenShot.pdf)
