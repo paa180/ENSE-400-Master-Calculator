@@ -29,6 +29,8 @@ https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/masterC
 
 [Scrum 5.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456389/Scrum.N5.pdf)
 
+[PDF vlog 2](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/ENSE400%20Capstone%20Vlog%202.pdf)
+
 [PDF vlog3](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Vlog3_Dec3.pdf)
 
 [PDF vlog5](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Project%20vlog%20%5EN5.pdf)
