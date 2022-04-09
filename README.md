@@ -15,7 +15,7 @@
 [https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Hi_Fi_ScreenShot.pdf]
 
 # Master_Calculator_Architectural_Diagram
-[https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Master_Calculator_Architecture_Diagram.pdf]
+[Master_Calculator_Architecture_Diagram.pdf](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Master_Calculator_Architecture_Diagram.pdf)
 
 # User Acceptance Test
 [https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/User%20Testing%20Plan.pdf]
