@@ -1,4 +1,3 @@
-[Scrum#2.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456455/Scrum.2.pdf)
 
 
 # Automated Kanban under project 1, but the code under ENSE477 branch
@@ -29,7 +28,8 @@
 # Scrum pdf
 [Scum 3.1.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456451/Scum.3.1.pdf)
 
-[PDF Scrum 2](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Scrum%232.pdf)
+[Scrum#2.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456455/Scrum.2.pdf)
+
 
 [Instructor Scrum #4.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456446/Instructor.Scrum.4.pdf)
 
