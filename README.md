@@ -1,3 +1,4 @@
+[masterCalculatorScreenShot.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456442/masterCalculatorScreenShot.pdf)
 # Automated Kanban under project 1, but the code under ENSE477 branch
 # Business Case
 [BUSINESS CASE.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456342/BUSINESS.CASE.pdf)
