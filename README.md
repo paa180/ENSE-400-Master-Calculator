@@ -1,3 +1,4 @@
+[Scum 3.1.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456451/Scum.3.1.pdf)
 
 # Automated Kanban under project 1, but the code under ENSE477 branch
 # Business Case
