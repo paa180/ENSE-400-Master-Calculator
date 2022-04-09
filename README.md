@@ -1,3 +1,4 @@
+[Vlog3_Dec3.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456467/Vlog3_Dec3.pdf)
 
 
 
