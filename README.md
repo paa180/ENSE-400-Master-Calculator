@@ -1,4 +1,4 @@
-[Vlog3_Dec3.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456467/Vlog3_Dec3.pdf)
+
 
 
 
@@ -39,7 +39,7 @@
 
 [ENSE400 Capstone Vlog 2.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456460/ENSE400.Capstone.Vlog.2.pdf)
 
-[PDF vlog3](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Vlog3_Dec3.pdf)
+[Vlog3_Dec3.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456467/Vlog3_Dec3.pdf)
 
 [Project vlog4.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456466/Project.vlog4.pdf)
 
