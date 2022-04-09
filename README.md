@@ -1,3 +1,4 @@
+[PROJECT CHARTER.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456380/PROJECT.CHARTER.pdf)
 
 
 
