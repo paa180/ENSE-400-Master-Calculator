@@ -1,3 +1,4 @@
+[PROJECT SCOPE STATEMENT.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456354/PROJECT.SCOPE.STATEMENT.pdf)
 
 
 # Business Case
