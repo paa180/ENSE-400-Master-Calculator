@@ -1,26 +1,27 @@
 # Business Case
-https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/BUSINESS.CASE.pdf
+[PDF](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/BUSINESS.CASE.pdf)
 
 # Project Charter
-https://github.com/paa180/ENSE-400-Master-Calculator/blob/main/PROJECT%20CHARTER.pdf
+[PDF](https://github.com/paa180/ENSE-400-Master-Calculator/blob/main/PROJECT%20CHARTER.pdf)
 
 # Project Scope
-https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/PROJECT.SCOPE.STATEMENT(1).pdf
+[PDF](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/PROJECT.SCOPE.STATEMENT(1).pdf)
 
 # Role and Responsibility
-https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Project.Role.and.Responsibilities.pdf
+[PDF](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Project.Role.and.Responsibilities.pdf)
 
 # Hi fedility prototype screen shut
-https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Hi_Fi_ScreenShot.pdf
+[PDF](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Hi_Fi_ScreenShot.pdf)
 
 # Master_Calculator_Architectural_Diagram
-https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Master_Calculator_Architecture_Diagram.pdf
+[PDF](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Master_Calculator_Architecture_Diagram.pdf)
 
 # User Acceptance Test
-https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/User%20Testing%20Plan.pdf
+[PDF](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/User%20Testing%20Plan.pdf)
 
 # Scrum pdf
 
+[PDF Scrum 4] (https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Instructor%20Scrum%20%234.pdf)
 [PDF Scrum 5](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Scrum%20%5EN5.pdf)
 
 # Scrum Power points and Vlog ENSE 477
