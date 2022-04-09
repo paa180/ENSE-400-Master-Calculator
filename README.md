@@ -1,3 +1,4 @@
+[Master_Calculator_Architecture_Diagram.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456343/Master_Calculator_Architecture_Diagram.pdf)
 # Business Case
 [BUSINESS CASE.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456342/BUSINESS.CASE.pdf)
 
