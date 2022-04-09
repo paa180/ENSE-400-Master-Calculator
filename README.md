@@ -1,4 +1,4 @@
-[Master_Calculator_Architecture_Diagram.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456343/Master_Calculator_Architecture_Diagram.pdf)
+
 # Business Case
 [BUSINESS CASE.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456342/BUSINESS.CASE.pdf)
 
@@ -15,7 +15,7 @@
 [https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Hi_Fi_ScreenShot.pdf]
 
 # Master_Calculator_Architectural_Diagram
-[Master_Calculator_Architecture_Diagram.pdf](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Master_Calculator_Architecture_Diagram.pdf)
+[Master_Calculator_Architecture_Diagram.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456343/Master_Calculator_Architecture_Diagram.pdf)
 
 # User Acceptance Test
 [https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/User%20Testing%20Plan.pdf]
