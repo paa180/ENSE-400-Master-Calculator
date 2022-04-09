@@ -10,6 +10,9 @@ https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/PROJECT
 # Role and Responsibility
 https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Project.Role.and.Responsibilities.pdf
 
+# Hi fedility prototype screen shut
+https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Hi_Fi_ScreenShot.pdf
+
 # Scrum pdf
 
 [https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Scrum%20%5EN5.pdf]
