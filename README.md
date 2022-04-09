@@ -23,7 +23,7 @@
 
 [PDF Scrum 4] (https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Instructor%20Scrum%20%234.pdf)
 
-[PDF Scrum 5](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Scrum%20%5EN5.pdf)
+[PDF Scrum 5] (https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Scrum%20%5EN5.pdf)
 
 # Scrum Power points and Vlog ENSE 477
 
