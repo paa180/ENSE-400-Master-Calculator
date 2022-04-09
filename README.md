@@ -13,7 +13,7 @@
 [Responsibilities.pdf](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Project.Role.and.Responsibilities.pdf)
 
 # Hi fedility prototype screen shut
-[https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Hi_Fi_ScreenShot.pdf]
+[i_Fi_ScreenShot.pdf](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Hi_Fi_ScreenShot.pdf)
 
 # Master_Calculator_Architectural_Diagram
 [Master_Calculator_Architecture_Diagram.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456343/Master_Calculator_Architecture_Diagram.pdf)
