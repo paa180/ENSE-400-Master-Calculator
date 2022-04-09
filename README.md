@@ -1,4 +1,3 @@
-[ENSE400 Capstone Vlog 2.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456460/ENSE400.Capstone.Vlog.2.pdf)
 
 
 # Automated Kanban under project 1, but the code under ENSE477 branch
@@ -36,7 +35,7 @@
 
 [Scrum 5.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456389/Scrum.N5.pdf)
 
-[PDF vlog 2](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/ENSE400%20Capstone%20Vlog%202.pdf)
+[ENSE400 Capstone Vlog 2.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456460/ENSE400.Capstone.Vlog.2.pdf)
 
 [PDF vlog3](https://raw.githubusercontent.com/paa180/ENSE-400-Master-Calculator/main/Vlog3_Dec3.pdf)
 
