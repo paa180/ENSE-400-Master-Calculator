@@ -4,28 +4,21 @@
 
 
 # Automated Kanban under project 1, but the code under ENSE477 branch
-# Business Case
+# Project Documents
 [BUSINESS CASE.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456342/BUSINESS.CASE.pdf)
 
-# Project Charter
 [PROJECT CHARTER.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456380/PROJECT.CHARTER.pdf)
 
-# Project Scope
 [PROJECT SCOPE STATEMENT.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456354/PROJECT.SCOPE.STATEMENT.pdf)
 
-# Role and Responsibility
 [Project Role and Responsibilities.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456384/Project.Role.and.Responsibilities.pdf)
 
-# Hi fedility prototype screen shut
 [Hi_Fi_ScreenShot.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456358/Hi_Fi_ScreenShot.pdf)
 
-# Master_Calculator_Architectural_Diagram
 [Master_Calculator_Architecture_Diagram.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456343/Master_Calculator_Architecture_Diagram.pdf)
 
-# User Acceptance Test
 [User Testing Plan.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456348/User.Testing.Plan.pdf)
 
-# Master Calculator Screen Shut
 [masterCalculatorScreenShot.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456442/masterCalculatorScreenShot.pdf)
 
 # Scrum pdf
