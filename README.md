@@ -41,18 +41,18 @@
 
 # Scrum Power points and Vlog ENSE 477
 
-[ENSE475Scrum7.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/8255602/ENSE475Scrum7.pptx)
-
-[ENSE 477 Scrum #6.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/8069263/Scrum.6.pptx)
-
-[ENSE 477 Vlog4.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7977639/ENSE.477.Vlog4.pptx)
+[ENSE 477 progress and presentation.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7930644/ENSE.477.progress.and.presentation.pptx)
 
 [Project_Bazaar_Day_2.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/8161133/Project_Bazaar_Day_2.pptx)
 
-[ENSE 477 progress and presentation.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7930644/ENSE.477.progress.and.presentation.pptx)
+[ENSE 477 Vlog4.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7977639/ENSE.477.Vlog4.pptx)
+
+[ENSE 477 Scrum #6.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/8069263/Scrum.6.pptx)
+
+[ENSE475Scrum7.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/8255602/ENSE475Scrum7.pptx)
+
 
 # Vlogs ENSE400
-
 
 
 [ENSE 400 Capstone Project VLog #1 power point.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/7225877/ENSE.400.Capstone.Project.pptx)
