@@ -1,8 +1,4 @@
 
-
-
-
-
 # Automated Kanban under project 1, but the code under ENSE477 branch
 # Project Documents
 [BUSINESS CASE.pdf](https://github.com/paa180/ENSE-400-Master-Calculator/files/8456342/BUSINESS.CASE.pdf)
@@ -49,7 +45,7 @@
 
 [ENSE 477 Scrum #6.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/8069263/Scrum.6.pptx)
 
-[ENSE475Scrum7.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/8255602/ENSE475Scrum7.pptx)
+[ENSE477 Scrum7.pptx](https://github.com/paa180/ENSE-400-Master-Calculator/files/8255602/ENSE475Scrum7.pptx)
 
 
 # Vlogs ENSE400
